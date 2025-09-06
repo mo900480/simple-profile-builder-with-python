@@ -1,2 +1,2 @@
-# simple-profile-builder-with-python
-a simple profile builder based user input
+# simple profile builder 
+A small python script to practise basics . it asks user for details and prints a profile card
